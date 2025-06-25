@@ -1,5 +1,5 @@
 # phpmyide
-An "IDE" made for PHP using PHP
+An "IDE" made for PHP using PHP (Specifically PHP-8.2)
 <br>
 <br>
 <strong>Note: there is barely anything yet</strong>
