@@ -1,7 +1,11 @@
 # phpmyide
 An "IDE" made for PHP using PHP
 <br>
-Note: there is barely anything yet
+<br>
+<strong>Note: there is barely anything yet</strong>
+<br>
+<strong>Other note: this is expected to be run locally</strong>
+<br>
 <br>
 Todo list:<br>
 Add syntax highlighting.<br>
