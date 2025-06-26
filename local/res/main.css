@@ -38,15 +38,18 @@ body {
     border-radius: 5px 5px 0 0;
     font-size: 1.5rem;
     font-weight: bold;
+    display: block;
 }
 
 #footer {
     background-color: #388e3c;
     color: #fff;
     padding: 1rem;
-    border-radius: 0 0 5px 5px;
+    border-radius: 5px;
     margin-top: 1rem;
     text-align: center;
+    display: flex;
+    flex-direction: row;
 }
 
 #content {
@@ -56,4 +59,39 @@ body {
     min-height: 200px;
     border-radius: 0 0 5px 5px;
     margin-bottom: 1rem;
+    display: flex;
+    flex-direction: row;
+}
+img {
+    height: 25px;
+    width: 25px;
+    align-self: center;
+}
+a {
+    align-self: center;
+    text-decoration: none;
+    color: rgb(75, 75, 175);
+    font-size: medium;
+}
+p {
+    align-self: center;
+}
+iframe {
+    height: 117%;
+    width: 47%;
+    align-self: center;
+}
+hr {
+    height: 100%;
+    align-self: center;
+}
+button {
+    height: 33%;
+    max-width: 25%;
+    align-self: center;
+    margin: 1% 0%;
+    background-color: darkblue;
+    color: lightgrey;
+    border-color: lightgreen;
+    border-radius: 25px 30px;
 }
