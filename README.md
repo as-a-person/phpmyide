@@ -15,3 +15,6 @@ Add direct execution.<br>
 Add "gimme ideas"<br>
 <br>
 More info about phpmyide is available in this [wiki](https://github.com/as-a-person/phpmyide/wiki)
+<br>
+<br>
+And also, sorry about the bad "doodle art" I drew.
