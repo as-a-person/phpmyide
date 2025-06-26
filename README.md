@@ -12,4 +12,6 @@ An "IDE" made for PHP using PHP (Specifically PHP-8.2.28)
 Todo list:<br>
 Add syntax highlighting.<br>
 Add direct execution.<br>
-Add "gimme ideas"
+Add "gimme ideas"<br>
+<br>
+More info about phpmyide is available in this [wiki](https://github.com/as-a-person/phpmyide/wiki)
