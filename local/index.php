@@ -1,7 +1,9 @@
 <?php
 if ($_SERVER['HTTP_SEC_FETCH_DEST'] == 'iframe') {
     echo '<!DOCTYPE html><hr>';
-    exit('<body style="background:rgb(75, 75, 100); color: rgb(75, 175, 75); font-family: Verdana, Geneva, Tahoma, sans-serif;">Choose a task in the taskbar.</body>');
+    exit('<body style="background:rgb(75, 75, 100); 
+    color: rgb(75, 175, 75); 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;">Choose a task in the taskbar.</body>');
 }
 ?>
 <!DOCTYPE html>
