@@ -1,7 +1,7 @@
 // Variables
 var randcol = '#cccccc7c';
 var l = 'l';
-
+var ltab = 'l';
 
 
 
@@ -28,5 +28,6 @@ function set_dsi(dsi = null, tab = 0) {
     if (tab == 6) l.src = '../local/settings.php';
     if (tab == 7) l.src = '../local/other.php';
     console.log(`DSI: ${l.src}\n\nTab: ${tab}`);
+    ltab = tab;
 }
 // Other
