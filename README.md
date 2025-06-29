@@ -18,3 +18,5 @@ More info about phpmyide is available in this [wiki](https://github.com/as-a-per
 <br>
 <br>
 And also, sorry about the bad "doodle art" I drew.
+<br>
+Note: projects made with phpmyide go into the idefs folder
