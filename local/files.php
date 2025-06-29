@@ -8,7 +8,7 @@ $root_dir = realpath(__DIR__ . '/../idefs');
 $current_path_param = isset($_GET['path']) ? $_GET['path'] : '';
 $current_abs_path = realpath($root_dir . '/' . $current_path_param);
 
-// Security check: If the resolved path is not inside the root directory, deny access.
+// If the resolved path is not inside the root directory, deny access.
 if (!$current_abs_path || strpos($current_abs_path, $root_dir) !== 0) {
     // Originally was supposed show an error message.
     // But instead it resets to the root.
