@@ -1,7 +1,7 @@
 # phpmyide
 An "IDE" made for PHP using PHP (Specifically PHP-8.2.28)
 <br>
-![Favicon for phpmyide showing a stylized blue and white icon resembling a code editor window, set against a plain background, conveying a modern and minimalistic design](./local/res/favicon.ico)
+![Favicon for phpmyide showing a stylised blue and white icon resembling a code editor window, set against a plain background, conveying a modern and minimalistic design](./local/res/favicon.ico)
 <br>
 <br>
 <strong>Note: this barely has any functionality yet</strong>
@@ -19,4 +19,4 @@ More info about phpmyide is available in this [wiki](https://github.com/as-a-per
 <br>
 And also, sorry about the bad "doodle art" I drew.
 <br>
-Note: projects made with phpmyide go into the idefs folder
+Note: Projects made with phpmyide go into the idefs folder
